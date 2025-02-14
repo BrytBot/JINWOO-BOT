@@ -11,7 +11,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your JINWOO session id here; must start with Jinwoo-Bot:~",
-      "value": "",
+      "value": "Jinwoo-Bot:~owJHFb4J#luorW42h518KfcTvNYmEJIYp6X2Mbs3vGejGWGQsH90",
       "required": false
     },
     "BOT_NAME": {
@@ -21,7 +21,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here",
-      "value": "263714757857",
+      "value": "233539142928",
       "required": true
     },
     "OWNER_NAME": {
@@ -81,7 +81,7 @@
     },
     "SUDO": {
       "description": " Type additional allowed users here. They'll be able to use all the functions of the bot without restrictions. Separate with comma incase of more than one number.",
-      "value": "263714757857,263780166288",
+      "value": "233204979617",
       "required": false
     },
     "AUTO_READ": {
